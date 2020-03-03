@@ -84,15 +84,14 @@ function App() {
             <div className="row">
                 <div className="col-lg-6 col-md-12 col-sm-12 content-column">
                     <div className="content-box">
-                        <h1>Profect App For Boost Your Business</h1>
+                        <h1>Profect App solutions to Boost Your Business</h1>
                         <div className="text">Range of services aimed to help start up websites, businesses and people to get their message across.</div>
-                        <div className="btn-box"><a href="#">Get App Now</a></div>
+                        <div className="btn-box"><a href="#">Contact us now</a></div>
                     </div>
                 </div>
                 <div className="col-lg-6 col-md-12 col-sm-12 image-column">
-                    <div className="image-box float-bob-y clearfix">
-                        <figure className="image image-1 wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms"><img src="images/resource/phone-1.png" alt=""></img></figure>
-                        <figure className="image image-2 wow fadeInUp" data-wow-delay="1500ms" data-wow-duration="1500ms"><img src="images/resource/phone-2.png" alt=""></img></figure>
+                <div className="image-box  js-tilt">
+                        <figure class="image clearfix wow slideInLeft" data-wow-delay="00ms" data-wow-duration="1500ms"><img src="images/resource/illustration-20.png" alt="" /></figure>
                     </div>
                 </div>
             </div>
@@ -108,7 +107,7 @@ function App() {
                 <div className="col-lg-5 col-md-12 col-sm-12 image-column">
                     <div id="iamge_block_01">
                         <div className="image-box float-bob-y">
-                            <figure className="image wow slideInLeft" data-wow-delay="00ms" data-wow-duration="1500ms"><img src="images/resource/phone-3.png" alt=""></img></figure>
+                            <figure className="image wow slideInLeft" data-wow-delay="00ms" data-wow-duration="1500ms"><img src="images/resource/dashbord-7.jpg" alt=""></img></figure>
                         </div>
                     </div>
                 </div>
@@ -116,7 +115,7 @@ function App() {
                     <div id="content_block_01">
                         <div className="content-box">
                             <div className="sec-title">
-                                <h2>Amazing Features</h2>
+                                <h2>Our Services</h2>
                                 <p>Cumque adipisci anim quisque provident posuere blandit accumsan delectus quam quos interdum sociosqu.</p>
                             </div>
                             <div className="inner-box wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
@@ -125,7 +124,7 @@ function App() {
                                         <div className="single-item">
                                             <div className="bg-layer" style={{ backgroundImage: 'url(images/resource/case-1.png) '}}></div>
                                             <div className="icon-box"><i className="flaticon-app-1"></i></div>
-                                            <h5><a href="#">Unique Design</a></h5>
+                                            <h5><a href="#">Unique Designs</a></h5>
                                             <div className="text">Integer quis mollis lacus maecenas in ornare ex sed scelerisque nec elit nec vehicula duis pretium libero</div>
                                         </div>
                                     </div>
@@ -133,7 +132,7 @@ function App() {
                                         <div className="single-item wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                                             <div className="bg-layer" style={{ backgroundImage: 'url(images/resource/case-1.png) '}}></div>
                                             <div className="icon-box"><i className="flaticon-target"></i></div>
-                                            <h5><a href="#">Easy And New Project</a></h5>
+                                            <h5><a href="#">Development</a></h5>
                                             <div className="text">Integer quis mollis lacus maecenas in ornare ex sed scelerisque nec elit nec vehicula duis pretium libero</div>
                                         </div>
                                     </div>
@@ -141,7 +140,7 @@ function App() {
                                         <div className="single-item wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                                             <div className="bg-layer" style={{ backgroundImage: 'url(images/resource/case-1.png)' }}></div>
                                             <div className="icon-box"><i className="flaticon-shipping"></i></div>
-                                            <h5><a href="#">Track Anything</a></h5>
+                                            <h5><a href="#">Ecommerce</a></h5>
                                             <div className="text">Integer quis mollis lacus maecenas in ornare ex sed scelerisque nec elit nec vehicula duis pretium libero</div>
                                         </div>
                                     </div>
@@ -149,7 +148,7 @@ function App() {
                                         <div className="single-item wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1500ms">
                                             <div className="bg-layer" style={{ backgroundImage: 'url(images/resource/case-1.png)' }}></div>
                                             <div className="icon-box"><i className="flaticon-dashboard"></i></div>
-                                            <h5><a href="#">Unlimited Dashboard</a></h5>
+                                            <h5><a href="#">SEO Optimization </a></h5>
                                             <div className="text">Integer quis mollis lacus maecenas in ornare ex sed scelerisque nec elit nec vehicula duis pretium libero</div>
                                         </div>
                                     </div>
